@@ -1,5 +1,5 @@
 Git
-github
+github >>>>OK
 basic terminal
 data terstruktur & algoritma
 design pattern
