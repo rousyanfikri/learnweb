@@ -1,0 +1,10 @@
+Git
+github
+basic terminal
+data terstruktur & algoritma
+design pattern
+license
+semantic versioning
+SSH
+HTTP/HTTPS
+CHARACTER ENCODINGS
